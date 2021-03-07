@@ -1,3 +1,9 @@
+//Auther name: Niyanta Siddhapura
+//Student ID: 301144167
+//Web app name: Book list application
+
+
+
 let app = require('./server/config/app');
 let debug = require('debug')('comp229-w2021-midterm:server');
 let http = require('http');
